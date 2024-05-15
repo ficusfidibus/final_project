@@ -1,0 +1,43 @@
+mol_name,inhibitory,data_set
+cAMP,0,validation_neg
+DL-Aspartic Acid,0,validation_neg
+Glycine,0,validation_neg
+Guanosine 3'5'-bispyrophosphate,0,validation_neg
+L-alanine,0,validation_neg
+L-arginine,0,validation_neg
+L-asparagine,0,validation_neg
+L-glutamic acid,0,validation_neg
+L-glutamine,0,validation_neg
+l-isoleucine,0,validation_neg
+L-leucine,0,validation_neg
+L-lysine,0,validation_neg
+L-methionine,0,validation_neg
+L-phenylalanine,0,validation_neg
+L-proline,0,validation_neg
+L-serine,0,validation_neg
+L-threonine,0,validation_neg
+L-tyrosine,0,validation_neg
+L-valine,0,validation_neg
+Chlorzoxazone,1,validation_pos
+Indole-3-acetaldehyde,1,validation_pos
+Palmitoyl Carnite,1,validation_pos
+Patulin,1,validation_pos
+5-Hydroxyindole,1,validation_pos
+Neopatulin,1,validation_pos
+3-Indoleacetonitrile,1,validation_pos
+Desformylflustrabromine,1,validation_pos
+7-fluoroindole,1,validation_pos
+Baicalein,1,validation_pos
+Nifuroxazide,1,validation_pos
+Pyochelin,1,validation_pos
+Furanone C30,1,validation_pos
+7-hydroxyindole,1,validation_pos
+Dihydroflustramine C,1,validation_pos
+Allicin,1,validation_pos
+Ferric Ammonium Citrate,1,validation_pos
+Salicylic Acid,1,validation_pos
+Ferric Sulfate,1,validation_pos
+Miconazole,1,validation_pos
+Captan,1,validation_pos
+Fluvastatin,1,validation_pos
+Aripiprazole,1,validation_pos

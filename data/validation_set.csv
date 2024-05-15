@@ -1,0 +1,43 @@
+mol_name,inhibitory,data_set,pubchemid
+cAMP,0,validation_neg,6076
+DL-Aspartic Acid,0,validation_neg,424
+Glycine,0,validation_neg,750
+"guanosine 3',5'-bispyrophosphate",0,validation_neg,135398637
+L-alanine,0,validation_neg,5950
+L-arginine,0,validation_neg,6322
+L-asparagine,0,validation_neg,6267
+L-glutamic acid,0,validation_neg,33032
+L-glutamine,0,validation_neg,5961
+l-isoleucine,0,validation_neg,6306
+L-leucine,0,validation_neg,6106
+L-lysine,0,validation_neg,5962
+L-methionine,0,validation_neg,6137
+L-phenylalanine,0,validation_neg,6140
+L-proline,0,validation_neg,145742
+L-serine,0,validation_neg,5951
+L-threonine,0,validation_neg,6288
+L-tyrosine,0,validation_neg,6057
+L-valine,0,validation_neg,6287
+Chlorzoxazone,1,validation_pos,2733
+Indole-3-acetaldehyde,1,validation_pos,800
+Palmitoylcarnitine,1,validation_pos,461
+Patulin,1,validation_pos,4696
+5-Hydroxyindole,1,validation_pos,16054
+Neopatulin,1,validation_pos,155497
+3-Indoleacetonitrile,1,validation_pos,351795
+Desformylflustrabromine,1,validation_pos,637026
+7-fluoroindole,1,validation_pos,2774504
+Baicalein,1,validation_pos,5281605
+Nifuroxazide,1,validation_pos,5337997
+Pyochelin,1,validation_pos,5287441
+Furanone C30,1,validation_pos,10131246
+7-hydroxyindole,1,validation_pos,2737651
+Dihydroflustramine C,1,validation_pos,185307
+Allicin,1,validation_pos,65036
+Ferric Ammonium Citrate,1,validation_pos,14457
+Salicylic Acid,1,validation_pos,338
+Ferric Sulfate,1,validation_pos,24826
+Miconazole,1,validation_pos,4189
+Captan,1,validation_pos,8606
+Fluvastatin,1,validation_pos,446155
+Aripiprazole,1,validation_pos,60795
